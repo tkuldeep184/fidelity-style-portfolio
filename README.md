@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# FIDELITY Style Portfolio Website
 
 This repository contains my personal portfolio website built using **React and Vite**.  
 The website presents my professional background, technical skills, experience, and selected projects in a clean, enterprise-style layout.
