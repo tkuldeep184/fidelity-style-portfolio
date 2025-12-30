@@ -2,7 +2,7 @@ import logo from "../../assets/logo.png";
 
 function Header() {
   return (
-    <header className="sticky top-0 z-50 border-b border-gray-200 bg-white ">
+    <header className="sticky top-0 z-50 border-b border-gray-200 bg-white position-fixed w-full">
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-6 ">
         {/* ↑ slightly taller header */}
 
