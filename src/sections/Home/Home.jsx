@@ -3,7 +3,7 @@ function Home() {
     <section
       id="home"
       className="relative overflow-hidden bg-slate-100 font-light text-[28px]"
-      style={{ backgroundImage: "url('/src/assets/photo3.jpg')", backgroundSize: 'cover', backgroundPosition: 'center' }}
+      style={{ backgroundImage: "url('/photo3.jpg')", backgroundSize: 'cover', backgroundPosition: 'center' }}
     >
 
       {/* Content */}
